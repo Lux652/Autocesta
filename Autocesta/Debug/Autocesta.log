@@ -1,0 +1,16 @@
+﻿  Autocesta.cpp
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(234): warning C4101: 'n_tip': unreferenced local variable
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\lukak\desktop\autocesta_final\autocesta\autocesta\autocesta.cpp(451): warning C4018: '<': signed/unsigned mismatch
+  Autocesta.vcxproj -> C:\Users\lukak\Desktop\Autocesta_Final\Autocesta\Debug\Autocesta.exe
+  Autocesta.vcxproj -> C:\Users\lukak\Desktop\Autocesta_Final\Autocesta\Debug\Autocesta.pdb (Full PDB)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NaplatnaPostaja>
+    <Postaja ID="1" naziv="Lucko" lat="45.760799" lng="15.8843"/>
+    <Postaja ID="2" naziv="Jastrebarsko" lat="45.671799" lng="15.6508"/>
+    <Postaja ID="3" naziv="Karlovac" lat="45.492901" lng="15.5553"/>
+    <Postaja ID="4" naziv="Ogulin" lat="45.2659" lng="15.2239"/>
+    <Postaja ID="5" naziv="Gospic" lat="44.546902" lng="15.375"/>
+    <Postaja ID="6" naziv="Sveti Rok" lat="44.360699" lng="15.6534"/>
+    <Postaja ID="7" naziv="Maslenica" lat="44.221298" lng="15.5428"/>
+    <Postaja ID="8" naziv="Delnice" lat="45.398701" lng="14.8016"/>
+    <Postaja ID="9" naziv="Rijeka" lat="45.327099" lng="14.4422"/>
+    <Postaja ID="10" naziv="Sibenik" lat="43.735001" lng="15.8952"/>
+</NaplatnaPostaja>

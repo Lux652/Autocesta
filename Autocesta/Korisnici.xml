@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Korisnici>
+  <Korisnik ime="Luka" prezime="Kovacic" korisnicko_ime="admin" lozinka="admin1234" tip="0"></Korisnik>
+  <Korisnik ime="Pero" prezime="Peric" korisnicko_ime="pero" lozinka="peric123" tip="1"></Korisnik>
+  <Korisnik ime="Majstor" prezime="Tomo" korisnicko_ime="majstor" lozinka="tomo123" tip="1"></Korisnik>
+  <Korisnik ime="Mika" prezime="Hakkinen" korisnicko_ime="mika" lozinka="hax123" tip="1"></Korisnik>
+  <Korisnik ime="Edgar" prezime="Davids" korisnicko_ime="edgar" lozinka="davids123" tip="1"></Korisnik>
+</Korisnici>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skupine>
+    <Skupina id="1" cijena="2"/>
+    <Skupina id="2" cijena="4"/>
+    <Skupina id="3" cijena="6"/>
+    <Skupina id="4" cijena="7"/>
+</Skupine>

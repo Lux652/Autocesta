@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vozila>
+    <Vozilo id="1" naziv="Automobil" skupina="1"/>
+    <Vozilo id="2" naziv="Motocikl" skupina="1"/>
+    <Vozilo id="3" naziv="Kombi" skupina="2"/>
+    <Vozilo id="4" naziv="Autobus" skupina="3"/>
+    <Vozilo id="5" naziv="Kamion" skupina="4"/>
+</Vozila>
